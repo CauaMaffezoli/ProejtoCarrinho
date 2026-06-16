@@ -1,2 +1,2 @@
-# ProejtoCarrinho
+# ProjetoCarrinho
 Projeto carrinho de compras
